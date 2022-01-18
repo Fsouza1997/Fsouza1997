@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_dialogs"
+    app:startDestination="@id/dialogoEsports">
+
+    <fragment
+        android:id="@+id/dialogoEsports"
+        android:name="com.example.aprendizagem.cadastroQuadras.DialogoEsports"
+        android:label="DialogoEsports" >
+        <action
+            android:id="@+id/action_dialogoEsports_to_quantidadeDeQuadras"
+            app:destination="@id/quantidadeDeQuadras" />
+    </fragment>
+    <fragment
+        android:id="@+id/quantidadeDeQuadras"
+        android:name="com.example.aprendizagem.cadastroQuadras.QuantidadeDeQuadras"
+        android:label="QuantidadeDeQuadras" >
+        <action
+            android:id="@+id/action_quantidadeDeQuadras_to_valorDasQuadras"
+            app:destination="@id/valorDasQuadras" />
+    </fragment>
+    <fragment
+        android:id="@+id/valorDasQuadras"
+        android:name="com.example.aprendizagem.cadastroQuadras.PerguntasSobreQuadras"
+        android:label="PerguntasSobreQuadras" >
+        <action
+            android:id="@+id/action_valorDasQuadras_to_variacaoDeHorarioFragment"
+            app:destination="@id/variacaoDeHorarioFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/valorDasQuadrasFragment"
+        android:name="com.example.aprendizagem.cadastroQuadras.ValorDasQuadrasFragment"
+        android:label="ValorDasQuadrasFragment" />
+    <fragment
+        android:id="@+id/variacaoDeHorarioFragment"
+        android:name="com.example.aprendizagem.cadastroQuadras.VariacaoDeHorarioFragment"
+        android:label="VariacaoDeHorarioFragment" >
+        <action
+            android:id="@+id/action_variacaoDeHorarioFragment_to_valorDasQuadrasFragment"
+            app:destination="@id/valorDasQuadrasFragment" />
+    </fragment>
+</navigation>

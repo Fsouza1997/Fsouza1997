@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/principalFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/menu_borrom_1"/>
+    <item
+        android:id="@+id/esportesInscritosFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sports_24"
+        android:title="@string/menu_borrom_2"/>
+    <item
+        android:id="@+id/userFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/menu_borrom_3"/>
+</menu>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aprendizagem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="todo">TODO</string>
+    <string name="icone_email">icone email</string>
+    <string name="icone_senha">icone senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="cpf_ou_cnpj">Cpf ou Cnpj</string>
+    <string name="cancel">cancelar</string>
+    <string name="title">titulo</string>
+    <string name="menu_borrom_2">esportes</string>
+    <string name="menu_borrom_3">eu</string>
+    <string name="menu_borrom_1">home</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="title_activity_principal1">Principal1Activity</string>
+</resources>

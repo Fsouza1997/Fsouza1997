@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/drawable/borda_arredondada.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/drawable/borda_arredondada2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/drawable/dialog_back.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/drawable/shap_imagem.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/activity_cadastro.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/activity_main.xml" value="0.14953271028037382" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/activity_principal.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_cadastro_cliente.xml" value="0.22" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_dialog_esportes.xml" value="0.2" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_dialog_quatidade_quadra.xml" value="0.22" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_dono_ou_user.xml" value="0.25" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_esportes_inscritos.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_login.xml" value="0.18" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_perguntas_sobre_quadras.xml" value="0.2" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_principal.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_user.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_valor_das_quadras.xml" value="0.25" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_valor_quadra.xml" value="0.25" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/fragment_variacao_de_horario.xml" value="0.22" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/layout/list_item_principal.xml" value="0.25" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/Users/asdfq/AndroidStudioProjects/Aprendizagem/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18432971014492755" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

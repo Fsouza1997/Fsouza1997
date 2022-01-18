@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_principal"
+    app:startDestination="@id/principalFragment">
+
+    <fragment
+        android:id="@+id/principalFragment"
+        android:name="com.example.aprendizagem.navegacaoPincipal.PrincipalFragment"
+        android:label="fragment_principal"
+        tools:layout="@layout/fragment_principal" />
+    <fragment
+        android:id="@+id/userFragment"
+        android:name="com.example.aprendizagem.navegacaoPincipal.UserFragment"
+        android:label="fragment_user"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/esportesInscritosFragment"
+        android:name="com.example.aprendizagem.navegacaoPincipal.EsportesInscritosFragment"
+        android:label="fragment_esportes_inscritos"
+        tools:layout="@layout/fragment_esportes_inscritos" />
+</navigation>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580838408872",
+    "project_id": "alugueldequadras",
+    "storage_bucket": "alugueldequadras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580838408872:android:af3f52c43137d1db81789d",
+        "android_client_info": {
+          "package_name": "com.example.aprendizagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580838408872-tgo358ed7bsigh6bc915qe2tfpha3hsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprendizagem",
+            "certificate_hash": "cb9d28a8f99221ee2bf60878e871d5dacdf901e7"
+          }
+        },
+        {
+          "client_id": "580838408872-avhdto4qu62hrmo1rnga65dbk1t6ed6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmCr0U1FNegQREshjmy0UvEI9OynDG1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580838408872-avhdto4qu62hrmo1rnga65dbk1t6ed6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
